@@ -4,7 +4,7 @@
 
 **Note : [Algorithm 5 marks , FlowChart 5 marks, Program code : 20 marks] Total 30 Marks**
 
-- Q1. WAP to declare a class rectangle having data members length , breadth, area. Accept and
+**1.** WAP to declare a class rectangle having data members length , breadth, area. Accept and
 display data for five objects.(Hint : Use array of Objects).
 
 **Algorithm:** 
