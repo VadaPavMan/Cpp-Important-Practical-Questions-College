@@ -1,4 +1,4 @@
-# Cpp-Important-Practical-Questions-College
+# C++ Important Practical Questions College
 
 **Students Need To Write The Algorithm, Draw the Flowchart, And Write The Program For The Following Problem.**
 
