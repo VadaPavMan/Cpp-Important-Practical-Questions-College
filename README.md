@@ -11,8 +11,8 @@ Algorithm:
 
 - Start
 - Define a class Rectangle with the following:
-- - Data members: length, breadth, area.
-- - Member functions:
-  - inputData() to accept length and breadth.
-  - calculateArea() to compute the area (area = length * breadth).
-  - displayData() to display length, breadth, and area.
+  - Data members: length, breadth, area.
+  - Member functions:
+    - inputData() to accept length and breadth.
+    - calculateArea() to compute the area (area = length * breadth).
+    - displayData() to display length, breadth, and area.
